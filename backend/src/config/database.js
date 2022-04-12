@@ -1,5 +1,5 @@
-/*
-## Mysql ##
+
+//## Mysql ##
 module.exports = {
   dialect: 'mysql',
   database: 'dbTech',
@@ -9,9 +9,8 @@ module.exports = {
   port: 3306
 }
 
-*/
-
-
+/*
+//##Postgres##
 module.exports = {
   dialect: 'postgres',
   database: 'dbTech',
@@ -20,3 +19,6 @@ module.exports = {
   host: '127.0.0.1',
   port: 5432
 }
+
+
+*/
